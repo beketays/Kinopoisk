@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## Инструкция: 
-# Версии пакетов и ангуляра
+### Версии пакетов и ангуляра
 
 Package Manager: npm 10.2.4
 
