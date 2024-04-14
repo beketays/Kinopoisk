@@ -1,33 +1,34 @@
 # Kinopoisk Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
+Этот проект был создан с помощью [Angular CLI](https://github.com/angular/angular-cli) версии 17.3.4.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Запустите `ng serve` для сервера разработки. Перейдите по адресу 'http://localhost:4200/'. Приложение автоматически перезагрузится, если вы измените какой-либо исходный файл.
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Запустите `ng generate component component-name` чтобы сгенерировать новый компонент. Вы также можете использовать `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Запустите `ng build` чтобы собрать проект. Артефакты сборки будут храниться в каталоге `dist/` directory.
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Запустите `ng test`, чтобы выполнить модульные тесты через [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Запустите `ng e2e` чтобы выполнить сквозные тесты на выбранной вами платформе. Чтобы использовать эту команду, вам необходимо сначала добавить пакет, реализующий возможности сквозного тестирования.
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Чтобы получить дополнительную помощь по Angular CLI, используйте `ng help` или посетите страницу [Angular CLI Overview and Command Reference](https://angular.io/cli).
+
 
 
 ## Инструкция: 
+
 ### Версии пакетов и ангуляра
 
 Package Manager: npm 10.2.4
@@ -89,5 +90,5 @@ typescript                      5.4.5zone.js                         0.14.4
 
 3. Некоторые фильмы которые есть в themoviedb нету в omdapi. И так как с первого я беру общий список а со второго детальные данные иногда могут встретиться фильмы с пустыми полями для информации. Если бы было время не поджимало я бы смогла сделать компонент/сообщение которое выводится когда данных о фильме нету.
 
-4.Иногда при поиске выводится по несколько одинаковых элементов. Думаю это из за того что расширение списка нужно доработать.
+4. Иногда при поиске выводится по несколько одинаковых элементов. Думаю это из за того что расширение списка нужно доработать.
 
