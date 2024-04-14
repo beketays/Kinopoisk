@@ -1,13 +1,13 @@
 body{
   background-color: black;
   margin: 0;
-  font-family: fantasy;
+  font-family: Verdana;
 }
 
 button{
   height: 50px;
   border-radius: 15px;
-  font-family: fantasy;
+  font-family: Verdana;
   border: none;
   padding: 0 20px;
   background-color: lightblue;
