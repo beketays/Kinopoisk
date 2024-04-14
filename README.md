@@ -31,11 +31,17 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Версии пакетов и ангуляра
 
 Package Manager: npm 10.2.4
+
 OS: win32 x64
+
 Angular: 17.3.4
+
 @angular-devkit/architect       0.1703.4@angular-devkit/build-angular   17.3.4
+
 @angular-devkit/core            17.3.4@angular-devkit/schematics      17.3.4
+
 @schematics/angular             17.3.4rxjs                            7.8.1
+
 typescript                      5.4.5zone.js                         0.14.4
 
 1.Установите последнюю версию ангуляр
