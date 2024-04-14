@@ -25,3 +25,20 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Инструкция: 
+# Версии пакетов и ангуляра
+
+Package Manager: npm 10.2.4
+OS: win32 x64
+Angular: 17.3.4
+@angular-devkit/architect       0.1703.4@angular-devkit/build-angular   17.3.4
+@angular-devkit/core            17.3.4@angular-devkit/schematics      17.3.4
+@schematics/angular             17.3.4rxjs                            7.8.1
+typescript                      5.4.5zone.js                         0.14.4
+
+1.Установите последнюю версию ангуляр
+2. Скопируйте этот репозитории в свою локальную папку гит
+3. Установите все необходимые пакеты
+4. в терминале перейдите к расположению проекта и запустите через ng serve
