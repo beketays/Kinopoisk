@@ -36,7 +36,7 @@ OS: win32 x64
 
 Angular: 17.3.4
 
-@angular-devkit/architect       0.1703.4@angular-devkit/build-angular   17.3.4
+@angular-devkit/architect           0.1703.4@angular-devkit/build-angular        17.3.4
 
 @angular-devkit/core            17.3.4@angular-devkit/schematics      17.3.4
 
